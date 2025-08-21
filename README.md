@@ -1,1 +1,1 @@
-Primer taller de estructura de datos 1
+resolucion de talleres 

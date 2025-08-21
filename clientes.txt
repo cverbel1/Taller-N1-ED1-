@@ -1,0 +1,7 @@
+Cedula,Nombre,Saldo
+12345,Jose,50.43
+54321,Dario,43.12
+12121,Carlos,32.2
+32143,Gustavo,12.23
+14235,Diego,41215
+11112,Juan,42.31
